@@ -134,7 +134,6 @@ export const experience = [
 ];
 
 // github: "" shows a muted "Code on request" note instead of a button.
-// Paste each repository URL when it's ready.
 export const projects = [
   {
     category: "Test automation · Accessibility",
@@ -148,7 +147,7 @@ export const projects = [
       "Added an LLM feature to analyze test failures and suggest HTML/CSS fixes.",
     ],
     tech: ["Python", "Selenium WebDriver", "PyTest", "Axe-Core", "LLM API"],
-    github: "",
+    github: "https://github.com/Sheiikhzaid/accessibility-testing-engine",
   },
   {
     category: "Data · Validation",
@@ -160,7 +159,7 @@ export const projects = [
       "Automated validation of SQL syntax, query results and execution latency.",
     ],
     tech: ["Python", "OpenAI API", "SQL", "MySQL"],
-    github: "",
+    github: "https://github.com/Sheiikhzaid/sql-validation-agent",
   },
   {
     category: "Machine learning · Support",
@@ -173,7 +172,7 @@ export const projects = [
       "Achieved 88% classification accuracy.",
     ],
     tech: ["Python", "Scikit-Learn", "NLP", "Pandas"],
-    github: "",
+    github: "https://github.com/Sheiikhzaid/ticket-classification-bot",
   },
 ];
 

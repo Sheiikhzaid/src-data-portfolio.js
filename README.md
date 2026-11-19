@@ -19,7 +19,7 @@ npm run build    # production build in /dist
 | **Contact form** | ✅ Sends through Formspree (`profile.formEndpoint`) |
 | **GitHub profile** | ✅ `profile.github` |
 | **Photo** | ✅ `public/profile.jpg` — replace the file to update it (square works best) |
-| **Project repos** | ⏳ Set each project's `github` in `src/data/portfolio.js` to show a "View on GitHub" button. |
+| **Project repos** | ✅ Linked in `src/data/portfolio.js` |
 
 ## Editing content
 
